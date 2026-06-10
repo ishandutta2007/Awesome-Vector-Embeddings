@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html  lang="es">
+	<head>
+		<title>Quantdare</title>
+		<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="https://quantdare.com/wp-content/themes/quantdare-wp-theme/img/favicon.ico?v=" />
+<link href='https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href="https://quantdare.com/wp-content/themes/quantdare-wp-theme/style.css?v=2.1.5" rel="stylesheet" type="text/css"/>
+
+
+<script>
+	var site_url       = "https://quantdare.com";
+	var wp_theme       = "https://quantdare.com/wp-content/themes/quantdare-wp-theme";
+	var posts_per_page = 9999;
+</script>		<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quantdare.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://quantdare.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<script type="text/javascript" src="https://quantdare.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://quantdare.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://quantdare.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://quantdare.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+	</head>
+	<body class="home">
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74497632-1', 'auto');
+  ga('send', 'pageview');
+
+</script>		<header>
+			<!--search-area-->
+			<div id="search-area" class="search-area">
+				<!--close button-->
+				<div id="close-search" class="cross">
+					<div class="burger-container">
+						<span class="cross-top"></span>
+						<span class="cross-filling"></span>
+						<span class="cross-bot"></span>
+					</div>
+				</div>
+				<!--form-->
+				<form id="searchform" class="search-form" action="https://quantdare.com" method="GET">
+					<input id="s" autofocus type="text" placeholder=" Type here" name="s">
+					<input type="submit" value="SEARCH!" class="">
+				</form>
+			</div>
+			<!--NAV-->
+			<nav id="navbar" class="navbar">
+				<div class='main triangle'>
+
+	<!-- Logo -->
+	<a href="https://quantdare.com" class="logo">Quant<strong>Dare</strong></a>
+
+	<!-- Menú -->
+	<ul id="menu-categories" class="categories show-xl"><li id="menu-item-2493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2493"><a href="https://quantdare.com/category/artificial-intelligence/">Artificial Intelligence</a></li>
+<li id="menu-item-2494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2494"><a href="https://quantdare.com/category/asset-management/">Asset Management</a></li>
+<li id="menu-item-2497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2497"><a href="https://quantdare.com/category/risk-management/">Risk Management</a></li>
+<li id="menu-item-2495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2495"><a href="https://quantdare.com/category/python/">Python</a></li>
+<li id="menu-item-2496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2496"><a href="https://quantdare.com/category/r/">R</a></li>
+<li id="menu-item-2499" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2499"><a href="https://quantdare.com/category/all/">All</a></li>
+</ul></div>
+
+<ul class='pages show-xl'>
+	<ul id="menu-terms-of-use-privacy-policy" class="categories"><li id="menu-item-7450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7450"><a href="https://quantdare.com/about-us/">About us</a></li>
+<li id="menu-item-7449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7449"><a href="https://quantdare.com/terms-of-use-privacy-policy/">Terms of use &#038; Privacy policy</a></li>
+</ul></ul>
+
+<ul class='tools show-xl'>
+	<li>
+		<!--Search-->
+		<div id="search" class="search-icon show-xxl">
+			<div class="search"></div>
+		</div>
+	</li>
+
+	<li>
+		<!--Twitter-->
+		<a href="https://twitter.com/quantdare?ref_src=twsrc%5Etfw" target="_blank" class="icon-twitter twitter-nav"></a>
+	</li>
+</ul>
+
+
+<!--BURGUER-MENU-->
+<div id="category-menu" class="category-menu hide-xl">
+	<div  class="burger-icon">
+		<div id="hamburgler" class="burger-container">
+			<span class="burger-bun-top"></span>
+			<span class="burger-filling"></span>
+			<span class="burger-bun-bot"></span>
+		</div>
+	</div>
+</div>			</nav>
+			<!--SEARCH BUTTON-->
+			<div class="btn-search hide-xxl">
+				<div class="search"></div>
+			</div>
+			<!--FULL SCREEN NAV-->
+			<div class="mobile-nav">
+				<ul id="menu-mobile-navigation" class="menu"><li id="menu-item-6042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6042"><a href="https://quantdare.com/category/artificial-intelligence/">Artificial Intelligence</a></li>
+<li id="menu-item-6041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6041"><a href="https://quantdare.com/category/asset-management/">Asset Management</a></li>
+<li id="menu-item-6043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6043"><a href="https://quantdare.com/category/risk-management/">Risk Management</a></li>
+<li id="menu-item-6045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6045"><a href="https://quantdare.com/category/python/">Python</a></li>
+<li id="menu-item-6044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6044"><a href="https://quantdare.com/category/r/">R</a></li>
+<li id="menu-item-6046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6046"><a href="https://quantdare.com/category/all/">All</a></li>
+<li id="menu-item-6040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6040"><a href="https://quantdare.com/about-us/">About us</a></li>
+</ul>			</div>
+
+			<!--BANNER-->
+			<div class="banner">
+				<h1>
+					<strong>Daring</strong> to quantify the markets |
+				</h1>
+				
+				<div class='powered-by'>
+    <p>
+        The scientific blog of <a href='https://www.etsfactory.com/' target='_blank'><strong>ETS Asset Management Factory</strong></a>
+    </p>
+</div>			</div>
+
+
+		</header>
+		<!--fin header-->
+		<a class="disclaimer" href="https://www.etsfactory.com/playground" target="_blank">
+    <div class="disclaimer-inner">
+        <div class="disclaimer-lines">
+            <div class="disclaimer-line"></div>
+            <div class="disclaimer-line"></div>
+            <div class="disclaimer-line"></div>
+            <div class="disclaimer-line"></div>
+        </div>
+        <div class="disclaimer-content">
+            <span class="text">Unlock the Power of Quantitative Strategies: Explore Our Cutting-Edge <strong>Website</strong> Today!</span>
+            <svg class="disclaimer-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 212.74 158.65">
+                <g id="Capa_2" data-name="Capa 2">
+                    <g id="Capa_1-2" data-name="Capa 1">
+                        <g id="stone">
+                            <path fill="#fff" d="M138.39,135.34a58.06,58.06,0,0,1-27.27,20.11c-17.84,6.54-34.14,1.41-39.94-.9a73.64,73.64,0,0,1-20.92-12.18c-3.78-3.17-13.11-11.07-14.55-18.64a13.33,13.33,0,0,1,1.53-9.1c1.13-1.91,3.63-5.63,17.27-10.87,10.79-4.14,31.74-8.82,47.83-8.82,16.84,0,30.11,7,34.64,11.9a22.78,22.78,0,0,1,5.89,13.49A21,21,0,0,1,138.39,135.34Z" data-svg-origin="89.21851348876953 126.79598617553711" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></path>
+                            <path fill="#fff" d="M138.39,135.34a61.94,61.94,0,0,1-10.2,10.58A57.23,57.23,0,0,0,46.3,107.35a84,84,0,0,1,8.21-3.6c10.78-4.14,31.74-8.82,47.83-8.82,16.83,0,30.11,7,34.63,11.89a22.79,22.79,0,0,1,5.89,13.49A21,21,0,0,1,138.39,135.34Z" data-svg-origin="94.62590408325195 120.42499923706055" style="opacity: 0.7; transform: matrix(1, 0, 0, 1, 0, 0);"></path>
+                            <path fill="#fff" d="M142.91,123.69v0a21.89,21.89,0,0,1-3.51,10.21c-.32.48-1.18,1.63-1.27,1.75a58,58,0,0,1-27,19.77c-17.84,6.54-34.14,1.41-39.94-.9a73.64,73.64,0,0,1-20.92-12.18,72.68,72.68,0,0,1-9.69-9.47,57.25,57.25,0,0,0,62.14-23.07l.14-.21a22,22,0,0,1,29.4-6.57,28.06,28.06,0,0,1,3.67,2.75l1.09,1.07a22.81,22.81,0,0,1,5.86,13.46A21.63,21.63,0,0,1,142.91,123.69Z" data-svg-origin="91.77118682861328 129.28798294067383" style="opacity: 0.7; transform: matrix(1, 0, 0, 1, 0, 0);"></path>
+                        </g>
+                        <path fill="#fff" d="M38.17,10.66C15.38,10.66,0,30.22,0,53.57A40.28,40.28,0,0,0,8,78.25c5.51,7.22,15.19,12.53,27.54,12.53,9.87,0,15.18-10.63,8.92-10.63-20.32,0-31.52-16.33-31.52-35.51,0-4.76.19-5.13,5.13-5.13H53.17c8,0,10.63-.18,11.2-1.32a11.72,11.72,0,0,0,.76-4.94C65.13,21.86,54.5,10.66,38.17,10.66ZM49.56,31.93c-1.51,1.14-5.7,1.9-19.74,1.9H16.34c-1.33,0-1.33-.57-1.33-.95.19-6.27,9.87-16.52,21.07-16.52,11,0,14.62,6.64,14.62,12C50.7,30.79,50.13,31.55,49.56,31.93Zm72.19-18.61c2.28,1.71,1.9,6.83.19,8H100.49c-3.23,0-3.41.57-3.41,4.56v37c0,11-14.05,20.31-14.05,8.92v-45c0-5.13-.19-5.51-4-5.51H73.72a3.15,3.15,0,0,1-.57-4c5.5-1.71,10.25-4.17,12.14-5.89a47,47,0,0,0,8-11.2c.95-.38,3.24-.38,4,.95V9.71c0,3.42.19,3.61,3.42,3.61ZM177.05,64c0,14.36-12.56,21.46-26.55,21.46-2.32,0-3.59-5.39,1.2-5.39,6.8,0,12.67-4,12.67-12.1,0-8.7-7.56-13.43-14.56-17.4-11-6.24-18.72-12.85-18.72-23.25,0-13.8,11.35-21.56,25.72-21.56,7.94,0,14.94,1.9,16.64,3.4a44.22,44.22,0,0,1,3,15.32c-.76,1.32-3.59,1.7-4.54.56-3.21-8.31-8.89-13.8-16.64-13.8-7.37,0-12.1,4.73-12.1,11.54,0,7.75,7.94,11.91,14.56,15.69C167.78,44.11,177.05,50.53,177.05,64Z" data-svg-origin="88.5229060119018 45.380686178803444" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></path>
+                    </g>
+                </g>
+            </svg>
+        </div>
+    </div>
+</a>
+<main class='error-404'>
+
+    <div class="error-404-content">
+        <h1>Error 404!</h1>
+        <p>Sorry, page not found.</p>
+        <a href="https://quantdare.com"><h2>Return to our homepage</h2></a>
+    </div>        
+
+</main>
+
+<!--FOOTER-->
+<footer>
+	<ul>
+		<li class='content-map'>
+			<div class='content-map-container'>
+				<div class="foot-title">
+					<div>
+						<h3>categories</h3>
+						<span class="icon-arrow-down down"></span>
+						<span class="icon-arrow-down up"></span>
+						<ul class="foot-content">
+															<li><a href="https://quantdare.com/category/all/">All<span> (294)</span></a></li>
+																<li><a href="https://quantdare.com/category/artificial-intelligence/">Artificial Intelligence<span> (101)</span></a></li>
+																<li><a href="https://quantdare.com/category/asset-management/">Asset Management<span> (137)</span></a></li>
+																<li><a href="https://quantdare.com/category/factor-investing/">Factor Investing<span> (4)</span></a></li>
+																<li><a href="https://quantdare.com/category/artificial-intelligence/forecasting/">forecasting<span> (7)</span></a></li>
+																<li><a href="https://quantdare.com/category/asset-management/inflation/">inflation<span> (1)</span></a></li>
+																<li><a href="https://quantdare.com/category/interest-rate/">Interest Rate<span> (3)</span></a></li>
+																<li><a href="https://quantdare.com/category/machine-learning/">Machine Learning<span> (45)</span></a></li>
+																<li><a href="https://quantdare.com/category/python/">Python<span> (65)</span></a></li>
+																<li><a href="https://quantdare.com/category/r/">R<span> (9)</span></a></li>
+																<li><a href="https://quantdare.com/category/ranking/">Ranking<span> (10)</span></a></li>
+																<li><a href="https://quantdare.com/category/risk-management/">Risk Management<span> (81)</span></a></li>
+																<li><a href="https://quantdare.com/category/statistics/">statistics<span> (8)</span></a></li>
+																<li><a href="https://quantdare.com/category/valuation/">Valuation<span> (4)</span></a></li>
+														</ul>
+					</div>
+				</div>
+				<div class="foot-title">
+					<h3>most popular</h3>
+					<span class="icon-arrow-down down"></span>
+					<span class="icon-arrow-down up"></span>
+					<ul class="foot-content">
+												<li><a href="https://quantdare.com/numeros-de-fibonacci/">Números de Fibonacci</a></li>
+														<li><a href="https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/">What is the difference between Bagging and Boosting?</a></li>
+														<li><a href="https://quantdare.com/decision-trees-gini-vs-entropy/">Decision Trees: Gini vs Entropy</a></li>
+														<li><a href="https://quantdare.com/calculate-monthly-returns-with-pandas/">Calculate monthly returns&#8230;with Pandas</a></li>
+														<li><a href="https://quantdare.com/correlation-prices-returns/">Correlation with prices or returns: that is the question</a></li>
+													</ul>
+				</div>
+				<div class="foot-title">
+					<h3>blogs we love</h3>
+					<span class="icon-arrow-down down"></span>
+					<span class="icon-arrow-down up"></span>
+					<ul id="menu-blogs" class="foot-content"><li id="menu-item-2859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2859"><a target="_blank" href="http://www.turingfinance.com/">Turing Finance</a></li>
+<li id="menu-item-2525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525"><a target="_blank" href="http://quantocracy.com/">Quantocracy</a></li>
+<li id="menu-item-2526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526"><a target="_blank" href="https://quantstrattrader.wordpress.com/">Quantstrat TradeR</a></li>
+<li id="menu-item-2527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2527"><a target="_blank" href="http://blog.revolutionanalytics.com/?wref=bif">Revolution analytics</a></li>
+<li id="menu-item-2523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2523"><a target="_blank" href="https://cssanalytics.wordpress.com/">CSS Analytics</a></li>
+<li id="menu-item-2524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2524"><a target="_blank" href="http://mebfaber.com/">Meb Faber Research</a></li>
+</ul>				</div>
+			</div>
+		</li>
+		<li class='credits'>
+			<a href="https://www.etsfactory.com/" target='_blank'>
+				<img id='logo-ETS-footer' src='https://quantdare.com/wp-content/themes/quantdare-wp-theme/img/logoblanco.svg' alt='logo_ETS'>
+			</a>
+		</li>
+	</ul>
+
+</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/quantdare-wp-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://quantdare.com/wp-content/themes/quantdare-wp-theme/js/main.min.js?ver=1" id="code-js"></script>
+</body>
+</html>
+
+
+
