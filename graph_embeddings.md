@@ -7,4 +7,3 @@ This preserves the structural topology of the graph and powers modern recommenda
 
 ## Diagram
 ![Graph Embeddings Diagram](images/graph_embeddings.png)
-*(Note: Diagram placeholder if image failed to download)*

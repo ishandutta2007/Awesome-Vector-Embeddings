@@ -7,4 +7,3 @@ Applications include automated code generation, vulnerability detection, and sem
 
 ## Diagram
 ![Code Embeddings Diagram](images/code_embeddings.png)
-*(Note: Diagram placeholder if image failed to download)*

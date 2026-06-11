@@ -7,4 +7,3 @@ These embeddings are used to predict molecular properties and accelerate automat
 
 ## Diagram
 ![Biological and Chemical Embeddings Diagram](images/bio_chemical_embeddings.png)
-*(Note: Diagram placeholder if image failed to download)*

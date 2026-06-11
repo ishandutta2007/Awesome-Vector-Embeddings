@@ -7,4 +7,3 @@ This technique is used to enhance deep tabular model predictions by learning rel
 
 ## Diagram
 ![Categorical Embeddings Diagram](images/categorical_embeddings.png)
-*(Note: Diagram placeholder if image failed to download)*

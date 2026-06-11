@@ -8,4 +8,3 @@ Word embeddings map individual words into a vector space where words with simila
 
 ## Diagram
 ![Word Embeddings Architecture](images/word_embeddings.png)
-*(Note: Diagram placeholder if image failed to download)*
