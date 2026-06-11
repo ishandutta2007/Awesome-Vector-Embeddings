@@ -6,12 +6,10 @@
     <a href="https://github.com/ishandutta2007/Awesome-Vector-Embeddings/network/members"><img src="https://img.shields.io/github/forks/ishan/Awesome-Vector-Embeddings?style=for-the-badge&color=blue" alt="Forks"></a>
     <a href="https://github.com/ishandutta2007/Awesome-Vector-Embeddings/issues"><img src="https://img.shields.io/github/issues/ishan/Awesome-Vector-Embeddings?style=for-the-badge&color=red" alt="Issues"></a>
     <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" alt="Maintained">
-    <img src="https://img.shields.io/badge/SEO-Optimized-orange?style=for-the-badge" alt="SEO Optimized">
     <br />
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
-
+    <a href="https://github.com/ishandutta2007">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
   </p>
 
   ### 🚀 The Ultimate Guide to Vector Embeddings in Artificial Intelligence
