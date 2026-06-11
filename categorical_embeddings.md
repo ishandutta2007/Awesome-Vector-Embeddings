@@ -1,9 +1,14 @@
-# Categorical Embeddings
+# 🔢 Categorical Embeddings
 
 Categorical embeddings map discrete relational database columns (such as User IDs, Zip Codes, or Product SKUs) into continuous vector spaces.
 
-## Overview
+## 🚀 Overview
 This technique is used to enhance deep tabular model predictions by learning relationships between discrete categories.
 
-## Diagram
-![Categorical Embeddings Diagram](images/categorical_embeddings.png)
+## 📊 Architectural Diagram
+<div align="center">
+  <img src="images/categorical_embeddings.png" alt="Categorical Embeddings Diagram" width="80%" />
+</div>
+
+---
+[⬅️ Back to README](README.md)

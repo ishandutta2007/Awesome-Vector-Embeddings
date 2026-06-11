@@ -74,3 +74,15 @@ Contributions are welcome! If you have insights on new embedding techniques, fee
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" alt="Markdown">
   <img src="https://img.shields.io/badge/Built%20for-AI%20Engineers-blue.svg?style=flat-square" alt="AI Engineers">
 </div>
+
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Vector-Embeddings&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vector-Embeddings&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vector-Embeddings&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vector-Embeddings&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
